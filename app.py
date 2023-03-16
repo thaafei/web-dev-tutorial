@@ -1,4 +1,4 @@
-from flask import Flask, render_template,jsonify  #flask=module, Flask = class
+from flask import Flask, render_template, jsonify  #flask=module, Flask = class
 
 app = Flask(__name__)  #creating object of Flask
 
